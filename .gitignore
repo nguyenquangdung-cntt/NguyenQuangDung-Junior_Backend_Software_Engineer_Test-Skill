@@ -1,0 +1,7 @@
+echo "vendor/
+composer.lock
+.env
+.DS_Store
+.idea/
+node_modules/
+" > .gitignore
