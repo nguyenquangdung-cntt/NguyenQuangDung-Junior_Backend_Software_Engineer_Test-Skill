@@ -14,8 +14,8 @@ Dự án **Amazon Order Pricing** được viết bằng **PHP 8.2**, giúp tín
 
 **Cách cài đặt:**  
 
-# git clone https://github.com/nguyenquangdung-cntt/NguyenQuangDung-Junior_Backend_Software_Engineer_Test-Skill.git
+* git clone https://github.com/nguyenquangdung-cntt/NguyenQuangDung-Junior_Backend_Software_Engineer_Test-Skill.git
 
-# cd amazon-order-pricing
+* cd amazon-order-pricing
 
-# composer install
+* composer install
