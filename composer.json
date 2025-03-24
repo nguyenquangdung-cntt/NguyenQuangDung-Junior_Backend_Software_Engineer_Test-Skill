@@ -1,0 +1,20 @@
+{
+    "name": "nguyendung/amazon-order-pricing",
+    "description": "A PHP project for calculating Amazon order pricing.",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "ShippingCalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dũng Nguyễn",
+            "email": "nguyenquangdung2309@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}

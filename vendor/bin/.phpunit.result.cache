@@ -1,0 +1,1 @@
+{"version":1,"defects":{"AmazonOrderPricing\\Tests\\Services\\OrderPriceCalculatorTest::testCalculateTotalPrice":8,"ShippingCalculator\\Tests\\ProductTest::testProductCreation":8},"times":{"ShippingFeeCalculatorTest::testCalculateShippingFee":0,"ShippingCalculator\\Tests\\ProductTest::testProductCreation":0.004}}
